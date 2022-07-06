@@ -1,0 +1,13 @@
+@import "./bootstrap.min.css";
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.navbar {
+height: 5rem;
+}
